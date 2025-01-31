@@ -64,25 +64,27 @@ Shanghai Jiao Tong University | 2022 - Present
 
 ---
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> Contributions
-
-<table>
-  <tr>
-    <td width="55%">
-      <img src="https://github-readme-stats.vercel.app/api?username=astral705&show_icons=true&theme=nightowl&hide_border=true&count_private=true&include_all_commits=true" />
-    </td>
-    <td width="45%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astral705&layout=compact&theme=nightowl&hide_border=true&langs_count=8&hide=html,css" />
-    </td>
-  </tr>
-</table>
-
----
-
 ### 🌐 Let's Connect
 
 <p align="center">
   <a href="mailto:705astral@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+  <a href="https://github.com/astral705" target="_blank">
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
 </p>
+
+---
+
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> Contributions
+
+<table align="center">
+  <tr>
+    <td width="60%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=astral705&show_icons=true&theme=nightowl&hide_border=true&count_private=true&include_all_commits=true&bg_color=0,EE82EE,FFFFFF&theme=graywhite" />
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astral705&layout=compact&theme=nightowl&hide_border=true&langs_count=8&hide=html,css&bg_color=0,EE82EE,FFFFFF&theme=graywhite" />
+    </td>
+  </tr>
