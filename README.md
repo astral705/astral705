@@ -70,7 +70,7 @@ Shanghai Jiao Tong University | 2022 - Present
 
 ---
 
-### 🌐 Let's Connect
+## 🌐 Let's Connect
 
 <p align="center">
   <a href="mailto:705astral@gmail.com">
